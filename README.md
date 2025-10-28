@@ -33,24 +33,12 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ishfakmahbubsamin&show_icons=true&theme=tokyonight" alt="GitHub Stats" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ishfakmahbubsamin&layout=compact&theme=tokyonight" alt="Top Languages" height="160"/>
-</p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=ishfakmahbubsamin&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="160"/>
-</p>
 
----
-
-### 💬 Quote
 
 > “Keep building, keep growing 🚀”
 
----
 
 <p align="center">⭐ Thanks for visiting my profile!</p>
 
