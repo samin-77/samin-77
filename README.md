@@ -3,10 +3,6 @@
 <h1 align="center">Hi 👋, I'm Ishfak Mahbub Samin</h1>
 <h3 align="center">CSE Student at BRAC University | Aspiring Software Engineer</h3>
 
-<p align="center">
-  <img src="YOUR_IMAGE_LINK_HERE" alt="Ishfak Mahbub Samin" width="200" style="border-radius:50%">
-</p>
-
 ---
 
 ### 🌟 About Me
