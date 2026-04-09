@@ -24,12 +24,12 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfak_Samin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=0d0015)](https://www.linkedin.com/in/ishfak-samin-dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-Ishfak.Mahbub.Samin-1877F2?style=for-the-badge&logo=facebook&logoColor=ffff00&labelColor=0d0015)](https://www.facebook.com/ishfak.mahbub.samin)
 [![Instagram](https://img.shields.io/badge/Instagram-icepiper._77-E4405F?style=for-the-badge&logo=instagram&logoColor=ff00ff&labelColor=0d0015)](https://www.instagram.com/icepiper._.77/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_🟩_samin.77-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=00ffff&labelColor=0d0015)](https://codeforces.com/profile/samin.77)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_🟦_samin.77-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=00ffff&labelColor=0d0015)](https://codeforces.com/profile/samin.77)
 [![Gmail](https://img.shields.io/badge/Gmail-saminmahbub19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=0d0015)](mailto:saminmahbub19@gmail.com)
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=samin77&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
+![Profile Views](https://komarev.com/ghpvc/?username=samin-77&style=for-the-badge&color=blueviolet&label=PROFILE+VIEWS)
 ![Codeforces](https://img.shields.io/badge/Codeforces-Pupil%20Rated-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)
 
 </div>
@@ -162,9 +162,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin77/samin77/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin77/samin77/output/github-contribution-grid-snake.svg" />
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/samin77/samin77/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/samin-77/samin-77/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/samin-77/samin-77/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/samin-77/samin-77/output/github-contribution-grid-snake.svg" />
 </picture>
 
 <br/>
@@ -182,7 +182,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samin77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samin-77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true"/>
 
 </div>
 
@@ -192,7 +192,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=samin77&theme=radical&background=0d0015&ring=ff00ff&fire=ffff00&currStreakLabel=00ffff&sideLabels=ff00ff&dates=a060ff&border=ff00ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
+<img src="https://streak-stats.demolab.com?user=samin-77&theme=radical&background=0d0015&ring=ff00ff&fire=ffff00&currStreakLabel=00ffff&sideLabels=ff00ff&dates=a060ff&border=ff00ff&currStreakNum=ffffff&sideNums=ffffff" alt="GitHub Streak"/>
 
 </div>
 
@@ -202,7 +202,7 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin77&layout=donut&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-77&layout=donut&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8"/>
 
 </div>
 
@@ -213,7 +213,7 @@
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samin77&bg_color=0d0015&color=ff00ff&line=00ffff&point=ffff00&area=true&hide_border=false&border_color=ff00ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=samin-77&bg_color=0d0015&color=ff00ff&line=00ffff&point=ffff00&area=true&hide_border=false&border_color=ff00ff)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 </div>
 
@@ -224,7 +224,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samin77&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=samin-77&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
@@ -264,3 +264,5 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks+for+visiting+%F0%9F%92%9C&fontSize=22&fontColor=ff00ff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
+
+---
