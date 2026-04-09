@@ -217,12 +217,22 @@
 
 ---
 
-<!-- TROPHIES -->
-## 🏆 `GitHub Trophies`
+<!-- ACHIEVEMENTS -->
+## 🏆 `Achievements & Milestones`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=samin-77&theme=radical&no-frame=true&no-bg=true&margin-w=8&margin-h=8&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies"/>
+![Commits](https://img.shields.io/badge/Total%20Commits-36+-ff00ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0015)
+![Repos](https://img.shields.io/badge/Public%20Repos-Growing-00ffff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d0015)
+![Stars](https://img.shields.io/badge/GitHub%20Stars-Earning-ffff00?style=for-the-badge&logo=github&logoColor=black&labelColor=0d0015)
+![PRs](https://img.shields.io/badge/Pull%20Requests-Open%20Source-ff00ff?style=for-the-badge&logo=git&logoColor=white&labelColor=0d0015)
+
+<br/>
+
+![CF Pupil](https://img.shields.io/badge/🏅%20Codeforces-Pupil%20Rank-1F8ACB?style=for-the-badge&labelColor=0d0015)
+![BRAC CSE](https://img.shields.io/badge/🎓%20BRAC%20University-CSE%20Student-ff00ff?style=for-the-badge&labelColor=0d0015)
+![Full Stack](https://img.shields.io/badge/💻%20Full%20Stack-Developer-00ffff?style=for-the-badge&labelColor=0d0015)
+![AI ML](https://img.shields.io/badge/🤖%20AI%20%2F%20ML-Enthusiast-ffff00?style=for-the-badge&labelColor=0d0015)
 
 </div>
 
