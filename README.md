@@ -24,7 +24,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Ishfak_Samin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=00ffff&labelColor=0d0015)](https://www.linkedin.com/in/ishfak-samin-dev/)
 [![Facebook](https://img.shields.io/badge/Facebook-Ishfak.Mahbub.Samin-1877F2?style=for-the-badge&logo=facebook&logoColor=ffff00&labelColor=0d0015)](https://www.facebook.com/ishfak.mahbub.samin)
 [![Instagram](https://img.shields.io/badge/Instagram-icepiper._77-E4405F?style=for-the-badge&logo=instagram&logoColor=ff00ff&labelColor=0d0015)](https://www.instagram.com/icepiper._.77/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_🟦_samin.77-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=00ffff&labelColor=0d0015)](https://codeforces.com/profile/samin.77)
+[![Codeforces](https://img.shields.io/badge/Codeforces-Pupil_🟩_samin.77-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=00ffff&labelColor=0d0015)](https://codeforces.com/profile/samin.77)
 [![Gmail](https://img.shields.io/badge/Gmail-saminmahbub19@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=ff00ff&labelColor=0d0015)](mailto:saminmahbub19@gmail.com)
 
 <br/>
@@ -147,8 +147,8 @@
 
 | Platform | Handle | Status |
 |:---:|:---:|:---:|
-| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square) | [samin.77](https://codeforces.com/profile/samin.77) | 🟦 **Pupil** — Active |
-| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square) | LeetCode | 🟡 Solving |
+| ![Codeforces](https://img.shields.io/badge/-Codeforces-1F8ACB?logo=codeforces&logoColor=white&style=flat-square) | [samin.77](https://codeforces.com/profile/samin.77) | 🟩 **Pupil** — Active |
+| ![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?logo=leetcode&logoColor=black&style=flat-square) | [samin77](https://leetcode.com/u/samin77/) | 🟡 Solving |
 
 > 💡 *"Every AC is a dopamine hit. Every WA is a lesson."*
 
