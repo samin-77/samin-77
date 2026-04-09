@@ -170,8 +170,6 @@
 <br/>
 
 > 🎮 *The snake slithers through my actual GitHub contribution grid — every green cell is a real commit I pushed!*
->
-> 📌 *See the setup instructions at the bottom of this file to activate this animation.*
 
 </div>
 
@@ -182,7 +180,7 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samin-77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samin-77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&cache_seconds=86400"/>
 
 </div>
 
@@ -202,7 +200,7 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-77&layout=donut&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8"/>
+<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-77&layout=compact&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8&hide_border=false&cache_seconds=86400"/>
 
 </div>
 
@@ -224,7 +222,7 @@
 
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=samin-77&theme=radical&no-frame=false&no-bg=false&margin-w=6&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=samin-77&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4&row=2" alt="GitHub Trophies"/>
 
 </div>
 
@@ -264,5 +262,3 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=140&section=footer&text=Thanks+for+visiting+%F0%9F%92%9C&fontSize=22&fontColor=ff00ff&animation=fadeIn&fontAlignY=70" width="100%"/>
 
 </div>
-
----
