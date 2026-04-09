@@ -9,7 +9,7 @@
 
 </div>
 
-<!-- MULTI-LINE TYPING ANIMATION — roles appear one by one -->
+<!-- MULTI-LINE TYPING ANIMATION -->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=20&duration=2800&pause=600&color=FF00FF&center=true&vCenter=true&multiline=false&width=720&height=50&lines=👋+Hey%2C+I'm+Ishfak+Mahbub+Samin!;💻+Full+Stack+Developer;🤖+AI+%2F+ML+Enthusiast;⚔️+Competitive+Programmer+%7C+Codeforces+Pupil;🎓+CSE+Student+%40+BRAC+University;🌍+From+Dhaka%2C+Bangladesh;🚀+Always+Learning+%26+Exploring...)](https://git.io/typing-svg)
@@ -175,12 +175,12 @@
 
 ---
 
-<!-- GITHUB STATS -->
+<!-- GITHUB STATS — using stable alternative instance -->
 ## 📈 `GitHub Stats`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=samin-77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true&hide_border=false&rank_icon=github&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api?username=samin-77&show_icons=true&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&icon_color=ffff00&border_color=ff00ff&include_all_commits=true&count_private=true&rank_icon=github"/>
 
 </div>
 
@@ -200,7 +200,7 @@
 
 <div align="center">
 
-<img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samin-77&layout=compact&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8&hide_border=false&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=samin-77&layout=compact&theme=radical&bg_color=0d0015&title_color=ff00ff&text_color=00ffff&border_color=ff00ff&langs_count=8"/>
 
 </div>
 
@@ -217,12 +217,12 @@
 
 ---
 
-<!-- TROPHIES -->
+<!-- TROPHIES — using githubtrtrophy.vercel.app (different stable deployment) -->
 ## 🏆 `GitHub Trophies`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=samin-77&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4&row=2" alt="GitHub Trophies"/>
+<img src="https://githubtrphy.vercel.app/?username=samin-77&theme=radical&no-frame=false&no-bg=true&margin-w=8&column=4" alt="GitHub Trophies"/>
 
 </div>
 
